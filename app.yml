@@ -1,10 +1,11 @@
 settings:
-  APP_DISPLAY_NAME: Element X
-  PRODUCTION_APP_NAME: Element
-  APP_GROUP_IDENTIFIER: group.io.element
-  BASE_BUNDLE_IDENTIFIER: io.element.elementx
+  APP_DISPLAY_NAME: QFR
+  PRODUCTION_APP_NAME: QFR
+  APP_GROUP_IDENTIFIER: group.com.quantumforgerobotics.qfr
+  BASE_BUNDLE_IDENTIFIER: com.quantumforgerobotics.qfr
   ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: "colors/accent-color"
-  DEVELOPMENT_TEAM: 7J4U792NQT
+  # TODO(QFR): set to the Quantum Forge Robotics Apple Developer team ID before signing.
+  DEVELOPMENT_TEAM: ""
   IS_NIGHTLY_BUILD: false
 
   # Optional configuration to load accounts from Element Classic.
