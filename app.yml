@@ -4,8 +4,7 @@ settings:
   APP_GROUP_IDENTIFIER: group.com.quantumforgerobotics.qfr
   BASE_BUNDLE_IDENTIFIER: com.quantumforgerobotics.qfr
   ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: "colors/accent-color"
-  # TODO(QFR): set to the Quantum Forge Robotics Apple Developer team ID before signing.
-  DEVELOPMENT_TEAM: ""
+  DEVELOPMENT_TEAM: U6Z55PZ967
   IS_NIGHTLY_BUILD: false
 
   # Optional configuration to load accounts from Element Classic.
